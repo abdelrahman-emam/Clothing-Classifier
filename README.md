@@ -1,6 +1,6 @@
 # Clothing classifier using CNN
 
-Building custom **CNN** (Convolutional neural network) for clothing classification with step by step explanation.
+Building custom **CNN** along with Augmentation (learning purposes) for clothing classification with step by step explanation and a project presentation.
 
 ## Overview
 Clothing classifier is one of the common classification problems in Machine Learning, one of the most common datasets is the **[Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist)**, but it's not limited to it, they're many many different resources as well. 
