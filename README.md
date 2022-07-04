@@ -66,6 +66,9 @@ Our model test (before tuning) **accuracy** was **75%**, but after tuning and au
 ### Accuracy plot
 <img src="imgs/after_tuning_acc.png" width=300 title="After tuning accuracy">
 
+# Project Presentation 
+To see the Project Presentation click [here](https://bit.ly/3nhqiyI).
+
 # Acknowledgments
 - [Andrew Ng Deep learning Specialziation](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-ROW&utm_content=B2C&campaignid=6465471773&adgroupid=76541824319&device=c&keyword=certificate%20in%20deep%20learning&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=379493133118&hide_mobile_promo&gclid=CjwKCAjwwdWVBhA4EiwAjcYJEPGZOBcaQHawPZFGUI9KYGO5tcVI0cV26bJdJlhNjrrNq-LQApzM1xoCf9MQAvD_BwE)
 - [Alexey Grigorev - Dataset Provider](https://github.com/alexeygrigorev)
